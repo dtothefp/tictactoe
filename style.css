@@ -1,0 +1,25 @@
+td {
+	width: 100px;
+	height: 100px;
+	text-align: center;
+}
+
+.top_row td {
+	border-bottom: 1px solid black;
+}
+
+.bottom_row td {
+	border-top: 1px solid black;
+}
+
+td:first-child {
+	border-right: 1px solid black;
+}
+
+td:last-child {
+	border-left: 1px solid black;
+}
+
+.message {
+	color: #00ff00;
+}

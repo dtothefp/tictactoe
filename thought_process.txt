@@ -1,0 +1,15 @@
+Form the HTML grid with CSS so now basic structure and where to echo classes.
+---Form the basic structure with php.
+
+Define the Player structure
+----What Player will start
+----How to define which player is assigned to which token i.e. X & O
+----How to Alternate between players
+
+Once have players are defined can work to assign player tokens into the array
+----How to associate the tokens with the grid i.e. game board
+----How to echo the tokens within the board
+
+How to determine which players wins or if it is a draw
+---Determine if there are any empty cells
+---If there are no empty cells, determine who won or if it is a draw
